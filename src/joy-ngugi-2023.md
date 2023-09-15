@@ -1,3 +1,3 @@
 # Joy Ngugi
 
-Testing a commit to see if it goes through 
+Testing a commit to see if it goes through
